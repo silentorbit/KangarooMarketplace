@@ -3,6 +3,8 @@
         {
             "Name": "Hello World",
             "IconUrl": "https://silentorbit.github.io/KangarooMarketplace/icons/Kangaroo.png",
+            "Description": "First test",
+            "Website": "https://github.com/silentorbit/KangarooMarketplace/edit/main/docs/manifest.json",
             "Image": "hello-world",
             "Ports": [],
             "Volumes": []
