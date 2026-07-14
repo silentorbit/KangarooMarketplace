@@ -2,10 +2,10 @@
     "Apps": [
         {
             "Name": "Hello World",
-            "IconUrl": "https://",
+            "IconUrl": "https://silentorbit.github.io/KangarooMarketplace/icons/Kangaroo.png",
             "Image": "hello-world",
             "Ports": [],
-            "Volumes": [],
+            "Volumes": []
         }
     ]
 }
